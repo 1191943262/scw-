@@ -1,0 +1,3 @@
+public class HelloGit(){
+    system.out.print("很好");
+}
